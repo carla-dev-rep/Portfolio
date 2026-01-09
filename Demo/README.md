@@ -25,7 +25,7 @@ The project implements an event-driven architecture designed to ensure low-laten
 
 ## 🚀 Key Technical Challenges
 * **Latency Optimization:** Fine-tuned the RabbitMQ consumer to handle high-frequency data streams while maintaining a stable frame rate in Unity.
-* **Coordinate Transformation:** Implemented a mapping layer to translate raw sensor data into Unity’s Cartesian coordinate system, accounting for scale, rotation, and offsets.S
+* **Coordinate Transformation:** Implemented a mapping layer to translate raw sensor data into Unity’s Cartesian coordinate system, accounting for scale, rotation, and offsets.
 
 ---
 *Note: The source code is private due to intellectual property restrictions.*
