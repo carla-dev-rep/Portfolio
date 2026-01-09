@@ -3,9 +3,9 @@
 # Indoor Digital Twin: Unity3D & Radar Integration via RabbitMQ
 
 ### 🎥 Project Demo
-[![Project Demo](poster.jpg)](<video controls src="https://github.com/carla-dev-rep/Portfolio/raw/refs/heads/main/Demo/Demo_DT.mp4" title="Demo_DT"></video>)
-
-*Click the image above to play the project demo video.*
+![Project Demo](poster.jpg)
+<br>
+[▶️ Click here to play the video demo](https://github.com/carla-dev-rep/Portfolio/raw/refs/heads/main/Demo/Demo_DT.mp4)
 
 ## 📝 Project Overview
 This project involves the development of a real-time **Digital Twin** for an indoor environment. 
