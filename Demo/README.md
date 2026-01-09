@@ -3,7 +3,7 @@
 # Indoor Digital Twin: Unity3D & Radar Integration via RabbitMQ
 
 ## 🎥 Project Demo
-<video src="Demo_DT.mp4" poster="poster.jpg" height="500" controls>
+<video src="Demo_DT.mp4?raw=true" poster="poster.jpg" height="500" controls>
   Your browser does not support the video tag. 
   <a href="Demo_DT.mp4?raw=true">Click here to download the video</a>.
 </video>
